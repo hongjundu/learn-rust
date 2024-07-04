@@ -1,0 +1,8 @@
+[package]
+name = "use-crate"
+version = "0.1.0"
+edition = "2021"
+default-run = "use-crate"
+
+[dependencies]
+rand = "0.8"
